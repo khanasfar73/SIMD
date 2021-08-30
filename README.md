@@ -1,3 +1,0 @@
-# GPU
-
-Verilog Rudimentry GPU
