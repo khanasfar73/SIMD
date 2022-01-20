@@ -1,3 +1,2 @@
-# GPU
-
-Rudimentry Verilog GPU and Test Bench
+# SIMD
+Rudimentry Verilog SIMD and Test Bench
